@@ -1,0 +1,3 @@
+[submodule "ImageFilter/SSLegoCV"]
+	path = ImageFilter/SSLegoCV
+	url = git@github.com:serg2007/LegoCV.git
